@@ -14,8 +14,8 @@
   <li>Type de formation: développeur web/web mobile</li>
   <li>Les 3 grandes compétences du référenciel:</li>
   <ol>
-    <li></li>
-    <li></li>
+    <li>Développer la partie Front-end d'une application</li>
+    <li>Développer la partie Back-end d'une application</li>
     <li></li>
   </ol>
   <li>Durée de formation: 12 mois</li>
