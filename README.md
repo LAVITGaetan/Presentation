@@ -10,4 +10,5 @@
 <h1>LAVIT Gaetan</h1>
   <ul>
   <li>Formation de développeur web/web mobile</li>
+  <ul>
   <li>Les 3 grandes compétences du référenciel</li>
