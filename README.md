@@ -12,11 +12,11 @@
 <h2>LAVIT Gaetan</h2>
   <ul>
   <li>Type de formation: développeur web/web mobile</li>
-  <li>Les 3 grandes compétences du référenciel</li>
+  <li>Les 3 grandes compétences du référenciel:</li>
   <ol>
     <li></li>
     <li></li>
     <li></li>
   </ol>
-  <li>12 mois</li>
-  <li>11 apprenants</li>
+  <li>Durée de formation: 12 mois</li>
+  <li>Nombre d'apprenants: 11 apprenants</li>
