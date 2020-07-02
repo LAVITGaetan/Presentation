@@ -7,4 +7,7 @@
  </ul>
  <p>--------------------------------------------------------------------------</p>
  
-##titre le titre
+<h1>LAVIT Gaetan</h1>
+  <ul>
+  <li>Formation de développeur web/web mobile</li>
+  <li>Les 3 grandes compétences du référenciel</li>
