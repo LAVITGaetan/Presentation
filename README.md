@@ -8,7 +8,7 @@
    <li>Section: CFP4, Panthere2</li>
  </ul>
  <p>--------------------------------------------------------------------------</p>
- <a href="https://zupimages.net/viewer.php?id=20/27/gnol.png"><img src="https://zupimages.net/up/20/27/gnol.png" alt="" width="300" height="300"/></a>
+ <a href="https://zupimages.net/viewer.php?id=20/27/gnol.png"><img src="https://zupimages.net/up/20/27/gnol.png" alt="" /></a>
 <h2>LAVIT Gaetan</h2>
   <ul>
   <li>Type de formation: développeur web/web mobile</li>
