@@ -16,7 +16,7 @@
   <ol>
     <li>Développer la partie Front-end d'une application</li>
     <li>Développer la partie Back-end d'une application</li>
-    <li></li>
+    <li>Créer une base de données </li>
   </ol>
   <li>Durée de formation: 12 mois</li>
   <li>Nombre d'apprenants: 11 apprenants</li>
