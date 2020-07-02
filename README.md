@@ -4,6 +4,4 @@
   <li>61 chemin bouvillon, Ligne Paradis, Saint-pierre</li>
   <li>Française</li>
   <li>SECTION 4<li>
-</ul>
-  <br>
   <p>-------------------------------------------------</p>
